@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+I'm+Aditya+Raj;B.Tech+CSE+Student;DSA+Learner;Future+Software+Engineer;Java+Developer">
+</p>
+
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">B.Tech CSE Student | DSA Learner | Future Software Engineer</h3>
 
