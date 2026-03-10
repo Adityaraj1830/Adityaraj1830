@@ -41,11 +41,13 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Adityaraj1830&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+</p>
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityaraj1830&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaraj1830&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaraj1830&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+</p>
 
 ---
 
@@ -58,7 +60,6 @@
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-raj-068848250/)
-
 
 
 
