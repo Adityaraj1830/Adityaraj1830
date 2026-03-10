@@ -57,3 +57,8 @@
 
 ⭐ From [Aditya Raj](https://github.com/Adityaraj1830)
 
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Adityaraj1830/Adityaraj1830/blob/output/github-contribution-grid-snake.svg)
