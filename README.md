@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Aditya%20Raj&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+I'm+Aditya+Raj;B.Tech+CSE+Student;DSA+Learner;Future+Software+Engineer;Java+Developer">
 </p>
 
